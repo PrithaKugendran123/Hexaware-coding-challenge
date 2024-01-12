@@ -1,0 +1,7 @@
+C:\Users\kugen\source\repos\Insurance management system\Insurance management system\obj\Debug\Insurance management system.csproj.AssemblyReference.cache
+C:\Users\kugen\source\repos\Insurance management system\Insurance management system\obj\Debug\Insurance management system.csproj.CoreCompileInputs.cache
+C:\Users\kugen\source\repos\Insurance management system\Insurance management system\bin\Debug\Insurance management system.exe.config
+C:\Users\kugen\source\repos\Insurance management system\Insurance management system\bin\Debug\Insurance management system.exe
+C:\Users\kugen\source\repos\Insurance management system\Insurance management system\bin\Debug\Insurance management system.pdb
+C:\Users\kugen\source\repos\Insurance management system\Insurance management system\obj\Debug\Insurance management system.exe
+C:\Users\kugen\source\repos\Insurance management system\Insurance management system\obj\Debug\Insurance management system.pdb
