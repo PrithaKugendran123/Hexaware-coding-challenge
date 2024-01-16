@@ -88,7 +88,7 @@ namespace Insurance_management_system.Dao
                 {
 
 
-                    using (SqlCommand cmd = new SqlCommand($"update policy set details='{details}' where policyId={policyID}", connection))
+                    using (SqlCommand cmd = new SqlCommand($"update policy set CoverageDetails='{details}' where policyId={policyID}", connection))
                     {
                         connection.Open();
 
